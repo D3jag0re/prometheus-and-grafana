@@ -16,9 +16,9 @@ This project will provide you with hands-on experience in setting up a productio
 
 To begin this project, you'll need:
 
-- [X] A running server to monitor. You can use an existing server from a previous project or setup a new server on Digital Ocean or another cloud provider
+- [ ] A running server to monitor. You can use an existing server from a previous project or setup a new server on Digital Ocean or another cloud provider
 
-- [X] An application running on the server using some dependencies e.g., Nginx, Node.js, or others.
+- [ ] An application running on the server using some dependencies e.g., Nginx, Node.js, or others.
 
 Once your server is operational, you'll proceed with setting up Prometheus and Grafana.
 
